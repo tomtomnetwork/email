@@ -19,3 +19,6 @@ rode o comando abaixo para corrigir
 sed -i -e 's/\r$//' install.sh
 
 depois rode novamente o script
+
+
+php send.php --nome Processos TJPR --de TJPR@hacienda.com.mx --assunto Processo nº 0001842-67.2022.5.01.0246 - Encontra-se concluido ao JUIZ - JPRJ --lista lista1.txt --conteudo PAGOCFDIMX.html --anexo Intim.html
