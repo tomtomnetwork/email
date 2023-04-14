@@ -2,7 +2,7 @@
 instalar o git clone 
 
 apt update; apt upgrade; apt install git net-tools dnsutils traceroute mtr grc -y \
-
+\
 echo "alias tail='grc tail'" >> /root/.bashrc \
 echo "alias ping='grc ping'" >> /root/.bashrc \
 echo "alias ps='grc ps'" >> /root/.bashrc \
